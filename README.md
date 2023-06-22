@@ -12,7 +12,7 @@
 
 - [최종보고서.pdf](https://github.com/mlnzlk/Teamup/files/11832781/_.pdf) <br>
  : 기능 명세서 대비 구현 여부 (추가된 기능 또는 삭제된 기능에 대한 설명, 각 개별 기능에 대한 담당자) <br>
- : DB 설계, GA 분석 결과, 부하테스트 결과 등 <br>
+ : DB 설계, GA 분석 결과, 부하테스트 결과 등 <br><br><br>
  
  
 <img width="383" alt="스크린샷 2023-06-22 오후 7 07 30" src="https://github.com/mlnzlk/Teamup/assets/93921790/b49baecd-573e-4e12-93b4-da40c13ce9a8">
