@@ -1,4 +1,6 @@
 # Web_Project
+팀플/ 스터디/ 대회/ 공모전 팀원 구인 웹사이트 제작
+
 
 ## 프로젝트 소개
 - [중간보고서.pdf](https://github.com/mlnzlk/Teamup/files/11832783/_.pdf) <br>
